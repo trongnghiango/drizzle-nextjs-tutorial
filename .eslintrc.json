@@ -1,9 +1,0 @@
-{
-	"root": true,
-	"extends": ["plugin:drizzle/all", "next/core-web-vitals"],
-	"parser": "@typescript-eslint/parser",
-	"parserOptions": {
-		"project": "./tsconfig.json"
-	},
-	"plugins": ["drizzle"]
-}
